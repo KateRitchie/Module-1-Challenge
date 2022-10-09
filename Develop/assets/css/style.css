@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Set header format*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Set header 1 font and display type*/
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*Formats company name at top left of webpage*/
 .seo {
     color: #d9dcd6;
 }
-
+/*Puts navagation bar to top right of webpage and formats words*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,21 +31,21 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Top left link list*/
 nav ul {
     list-style-type: none;
 }
-
+/*Navagation link list*/
 nav ul li {
     display: inline-block;
 }
-
+/*Color and spacing of navagation links*/
 a {
     color: #ffffff;
     text-decoration: none;
     margin-left: 25px;
 }
-
+/*Formats large picture under header and navagation bar*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +54,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/*Formats section wording so it goes to right or left of pictures*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -64,13 +64,13 @@ a {
     float: right;
     margin-left: 25px;
 }
-
+/*Section box formatting to create the 2 evenly spaced sections*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Section box location in webpage, background color and font used*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,16 +79,16 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Sizes pictures in section boxes*/
 section img {
     max-height: 200px;
 }
-
+/*Section headers size and location*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Aside location to right of section, sizing of box, background color and font*/
 aside {
     margin-right: 20px;
     padding: 20px;
